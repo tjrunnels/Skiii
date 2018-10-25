@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\CustomAssets\Scripts\moveDeathScreen.cs">
+    <Files>
+      <File FileName="Assets\CustomAssets\Scripts\gameRunning.cs" Line="45" Column="60" />
+      <File FileName="Assets\CustomAssets\Scripts\MenuScreenController.cs" Line="1" Column="1" />
+      <File FileName="Assets\CustomAssets\Scripts\variables.cs" Line="1" Column="1" />
+      <File FileName="Assets\CustomAssets\Scripts\menuSnow.cs" Line="1" Column="1" />
+      <File FileName="Assets\CustomAssets\Scripts\HscoreMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\CustomAssets\Scripts\moveDeathScreen.cs" Line="12" Column="53" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
